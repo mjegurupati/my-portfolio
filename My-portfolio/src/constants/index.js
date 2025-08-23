@@ -8,37 +8,37 @@ export const HERO_CONTENT = `Hello there, I'm a data enthusiast on a mission to 
 export const ABOUT_TEXT = `It all began during the lockdown when I decided to be productive. That pivotal moment led me to a data science internship where I delved into Machine Learning with Python, data retrieval with SQL, and explored the world of neural networks—all to harness the power of data-driven decisions. My experience at FAU further fueled my passion as I worked on innovative projects, including an AI personalized medical assistant designed to enhance longevity and reduce aging effects—a winning idea. As a junior software engineer at Netcracker Technology , I deepened my technical expertise and gained invaluable corporate insights. Brimming with energy and creativity, I view every challenge as an opportunity for growth and believe that learning is a continuous journey. Outside of work, I'm a pet lover, an avid traveler, and a great foodie!`;
 
 export const EXPERIENCES = [
+    {
+    year: "August 2024 - Present",
+    role: "Teaching Assistant",
+    company: "Florida Atlantic University",
+    description: `Teaching undergraduate students algorithm building concepts that are foundation for computer science, data analysis and programming.`,
+    technologies: ["Statistics", "Algorithmic Building", "Mentorship", "Growth-mindset"],
+  },
   {
-    year: "2025 - Present",
+    year: "May 2025 - August 2025 ",
     role: "AI-Data Scientist Intern",
     company: "ModMed",
     description: `Developed agentic workflows using LangGraph to triage negative user feedback and enhance model performance for ModMed’s AI Scribe, resulting in improved overall user experience.`,
     technologies: ["Python","Spark","Agentic AI","RAG","LLMs","Databricks","AWS"],
   },
   {
-    year: "2024 - 2025",
-    role: "Teaching Assistant",
-    company: "Florida Atlantic University",
-    description: `Teaching undergraduate students mathematical concepts such as application in statistics driven by CRLA training insights.`,
-    technologies: ["Statistics", "Mathematics", "Mentorship", "Growth-mindset"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Junior Software Engineer and Intern",
+    year: "April 2022 - July 2023",
+    role: "Software Engineer",
     company: "Netcracker Technology Solutions",
     description: `Managed telecom billing issues by analyzing PSUPICE tickets and replicating production issues related to billing and rating in a local test environment.Analyzed financial and billing discrepancies to identify root causes, implemented key fixes in C++ while contributing to reduced revenue leakage and improved operational accuracy.
 `,
     technologies: ["C++", "PL/SQL", "Java", "JIRA", "Unix"],
   },
   {
-    year: "2020 - 2021",
-    role: "Data Analyst Intern",
+    year: "August 2020 - September2021",
+    role: "Data Analyst",
     company: "Sennight Technologies pvt ltd",
     description:"Analyzed healthcare ERP data to uncover patterns in patient flow, billing, and resource utilization using SQL and Python. Built Tableau dashboards and cleaned over 100K records to enhance reporting quality and migration accuracy.",
     technologies: ["Python","SQL", "Tableau", "ETL"],
   },
   {
-    year: "2020 - 2020",
+    year: "June 2020 - July 2020",
     role: "Data Science Intern",
     company: "TITA Digithon",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
