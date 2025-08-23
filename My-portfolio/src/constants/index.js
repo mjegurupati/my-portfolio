@@ -9,21 +9,21 @@ export const ABOUT_TEXT = `It all began during the lockdown when I decided to be
 
 export const EXPERIENCES = [
     {
-    year: "August 2024 - Present",
+    year: "Aug 2024 - Present",
     role: "Teaching Assistant",
     company: "Florida Atlantic University",
     description: `Teaching undergraduate students algorithm building concepts that are foundation for computer science, data analysis and programming.`,
     technologies: ["Statistics", "Algorithmic Building", "Mentorship", "Growth-mindset"],
   },
   {
-    year: "May 2025 - August 2025 ",
+    year: "May 2025 - Aug 2025 ",
     role: "AI-Data Scientist Intern",
     company: "ModMed",
     description: `Developed agentic workflows using LangGraph to triage negative user feedback and enhance model performance for ModMed’s AI Scribe, resulting in improved overall user experience.`,
     technologies: ["Python","Spark","Agentic AI","RAG","LLMs","Databricks","AWS"],
   },
   {
-    year: "April 2022 - July 2023",
+    year: "Apr 2022 - Jul 2023",
     role: "Software Engineer",
     company: "Netcracker Technology Solutions",
     description: `Managed telecom billing issues by analyzing PSUPICE tickets and replicating production issues related to billing and rating in a local test environment.Analyzed financial and billing discrepancies to identify root causes, implemented key fixes in C++ while contributing to reduced revenue leakage and improved operational accuracy.
@@ -31,14 +31,14 @@ export const EXPERIENCES = [
     technologies: ["C++", "PL/SQL", "Java", "JIRA", "Unix"],
   },
   {
-    year: "August 2020 - September2021",
+    year: "Aug 2020 - Sep 2021",
     role: "Data Analyst",
     company: "Sennight Technologies pvt ltd",
     description:"Analyzed healthcare ERP data to uncover patterns in patient flow, billing, and resource utilization using SQL and Python. Built Tableau dashboards and cleaned over 100K records to enhance reporting quality and migration accuracy.",
     technologies: ["Python","SQL", "Tableau", "ETL"],
   },
   {
-    year: "June 2020 - July 2020",
+    year: "Jun 2020 - Jul 2020",
     role: "Data Science Intern",
     company: "TITA Digithon",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
